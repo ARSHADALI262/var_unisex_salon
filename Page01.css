@@ -1,0 +1,158 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+body{
+
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    background: rgb(254, 202, 238);
+    box-shadow: 0 5px 10px rgb(211, 165, 245);
+    padding: 0px 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+
+}
+
+header  .Logo{
+    font-size: 0;
+    font-weight: bolder;
+    font-size: 25px;
+    color: rgb(47, 18, 47);
+}
+
+header  .navbar ul{
+
+    list-style: none;
+}
+
+header .navbar ul li{
+
+    position: relative;
+    float: left;
+
+}
+
+
+header .navbar ul li a{
+ font-size: 20px;
+ padding: 20px;
+ color: rgb(251, 81, 81);
+ display: block;
+}
+
+header .navbar ul li a:hover{
+    background: rgb(44, 40, 44);
+    color: aliceblue;
+}
+
+header .navbar ul li ul{
+    position: absolute;
+    left: 0;
+    width: 200px;
+    background: rgb(244, 231, 231);
+    display: none;
+}
+
+header .navbar ul li ul li{
+    width: 100%;
+    border-top: 1px solid rgb(251, 247, 247);
+
+}
+
+header .navbar ul li ul li ul{
+
+
+    left: 200px;
+}
+
+header .navbar ul li:focus-within > ul,
+header .navbar ul li:hover > ul{
+    display: initial;
+
+}
+
+#menu-bar{
+display: none;
+}
+
+header label{
+
+    font-size: 20px;
+    color: rgb(18, 17, 18);
+    cursor: pointer;
+    display: none;
+    
+}
+
+
+
+@media(max-width:991px){
+
+    header{
+        padding: 20px;
+
+    }
+
+    header label{
+        display: initial;
+    }
+
+
+    header .navbar{
+        position: absolute;
+        top: 100px; left: 0; right: 0;
+        background: beige;
+        border-top: 1px solid bisque;
+        display: none;
+
+    }
+
+    header .navbar ul li{
+        width: 100%;
+    }
+
+    header .navbar ul li ul{
+     position: relative;
+     width: 100%;
+    }
+
+    header .navbar ul li ul li{
+
+        background: white;
+
+    }
+
+    header .navbar ul li ul li ul{
+
+        width: 100%;
+        left: 0;
+    }
+    
+
+    #menu-bar:checked ~ .navbar{
+        display: initial;
+    }
+
+}
+
+
+
+
+
+
+

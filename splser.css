@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f2cbed;
+}
+
+
+section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 80px 0 0;
+}
+
+section h2 {
+  font-size: 2rem;
+}
+
+section > p {
+  text-align: center;
+}
+
+section .cards {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin-top: 50px;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+
+section.about {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.about .company-info {
+  margin-top: 30px;
+}
+
+.about h3 {
+  margin: 30px 0 10px;
+}
+
+.about .team {
+  text-align: left;
+  width: 100%;
+}
+
+.about .team ul {
+  padding-left: 20px;
+}
+
+section .cards .card {
+  background: #f4eeee;
+  padding: 40px 15px;
+  list-style: none;
+  border-radius: 5px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
+  margin-bottom: 40px;
+  width: calc(100% / 3 - 30px);
+  text-align: center;
+}
+
+.portfolio .cards .card {
+  padding: 0 0 20px;
+}
+
+.services .card img {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.portfolio .card img {
+  width: 100%;
+  padding-bottom: 10px;
+  /* aspect-ratio: 16 / 9; */
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.cards .card p {
+  padding: 0 15px;
+  margin-top: 5px;
+}
+
+.about .row {
+  padding: 0 10px;
+}
+
+.contact .row {
+  margin: 60px 0 90px;
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact .row .col {
+  padding: 0 10px;
+  width: calc(100% / 2 - 50px);
+}
+
+.contact .col p {
+  margin-bottom: 10px;
+}
+@media screen and (max-width: 860px) {
+  .navbar .all-links {
+    position: fixed;
+    left: -100%;
+    width: 300px;
+    display: block;
+    height: 100vh;
+    top: 75px;
+    background: #333;
+    transition: left 0.3s ease;
+  }
+  section > p {
+    text-align: center;
+  }
+}
+
+.cont button{
+    width: 250px;
+    padding: 15px;
+    margin: 20px 5px;
+    text-align: center;
+    border-radius: 25px;
+    color: rgb(5, 5, 5);
+    border: 2px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 600;  
+}
+
