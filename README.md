@@ -1,8 +1,11 @@
 # VAR_UNISEX_SALON:
 A unisex salon is a beauty establishment that offers services to both men and women, including haircuts, styling, coloring, manicures, pedicures, and other  grooming treatments. It's a convenient option for individuals looking for a one-stop-shop for all their beauty needs, regardless of gender.
 # Project Details
-
-# Roles and responsibilities
+  project demo URL:  
+  Demo video URL
+  Github repository URL:
+  Industry :life style
+  # Roles and responsibilities
 1.ASHRAD ALI (Project management) :Manages the web development project.
 2.GAJAVENI RAVALI (Deployment) :Deployment and maintenance of project infrastructure.
 3.PATLURI VAMSHI  (Designed a project) : Designed the project
