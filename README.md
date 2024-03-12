@@ -36,5 +36,23 @@ A unisex salon is a beauty establishment that offers services to both men and wo
  interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure 
  services, it ensures scalability and reliability.
 # Screenshots:
-# Storage account
-![Screenshot (2)](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/4360fbf8-a01d-45e4-8928-ae5c36da4624)
+# Storage Account
+![1](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/6b9309c6-19bc-4b82-9c40-e9745ae8ffc4)
+# Backup Vault
+![2](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/210a525f-c27e-4cbd-8e09-695638c53705)
+# Azure Bot
+![3](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/6dc264fc-a59d-4770-8825-d47748ff7b56)
+# Backup Policy 
+![policy](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/d16ecc11-c43b-46c9-85ba-4ac6d685d664)
+# Azure Role Assignment
+![4](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/e2accda5-f089-423d-b609-cbea19978e96)
+# Website View
+![website](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/31ca693b-445f-411f-906a-9a49fc7e26e3)
+# Bot Response
+![bot](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/44b1b43a-eaf6-42bc-80a4-3b87f43cdf21)
+# Resource Visualizer
+![rv](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/45721aba-0fe2-436e-ae2b-8a6dec0e7ec2)
+
+
+
+
