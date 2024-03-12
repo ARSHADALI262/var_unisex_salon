@@ -35,3 +35,6 @@ A unisex salon is a beauty establishment that offers services to both men and wo
  The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware 
  interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure 
  services, it ensures scalability and reliability.
+# Screenshots:
+# Storage account
+![Screenshot (2)](https://github.com/ARSHADALI262/var_unisex_salon/assets/161709124/4360fbf8-a01d-45e4-8928-ae5c36da4624)
