@@ -3,7 +3,7 @@ A unisex salon is a beauty establishment that offers services to both men and wo
 # Project Details
   project demo URL: https://varstorage2.z13.web.core.windows.net/page03.html#contact 
   Demo video URL:https://youtu.be/MY-3ICQ3uqE?si=CZbuhzHBTWJc2Gq4
-  Github repository URL:
+  Github repository URL:https://github.com/ARSHADALI262/var_unisex_salon
   Industry :life style
   # Roles and responsibilities
 1.ASHRAD ALI (Project management) :Manages the web development project.
