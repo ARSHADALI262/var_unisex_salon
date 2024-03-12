@@ -1,15 +1,15 @@
 # VAR_UNISEX_SALON:
 A unisex salon is a beauty establishment that offers services to both men and women, including haircuts, styling, coloring, manicures, pedicures, and other  grooming treatments. It's a convenient option for individuals looking for a one-stop-shop for all their beauty needs, regardless of gender.
 # Project Details
-  project demo URL: https://varstorage2.z13.web.core.windows.net/page03.html#contact 
-  Demo video URL:https://youtu.be/MY-3ICQ3uqE?si=CZbuhzHBTWJc2Gq4
-  Github repository URL:https://github.com/ARSHADALI262/var_unisex_salon
-  Industry :life style
-  # Roles and responsibilities
-1.ASHRAD ALI (Project management) :Manages the web development project.
-2.GAJAVENI RAVALI (Deployment) :Deployment and maintenance of project infrastructure.
-3.PATLURI VAMSHI  (Designed a project) : Designed the project
-4.JUPAKA VYSHNAVI (Documentation) : Responsible for managing the documentation process.
+  1. Project demo URL: https://varstorage2.z13.web.core.windows.net/page03.html#contact 
+  2. Demo video URL:https://youtu.be/MY-3ICQ3uqE?si=CZbuhzHBTWJc2Gq4
+  3. Github repository URL:https://github.com/ARSHADALI262/var_unisex_salon
+  4. Industry :life style - Saloon
+# Roles and responsibilities
+1. ASHRAD ALI (Project management) :Manages the web development project.
+2. GAJAVENI RAVALI (Deployment) :Deployment and maintenance of project infrastructure.
+3. PATLURI VAMSHI  (Designed a project) : Designed the project
+4. JUPAKA VYSHNAVI (Documentation) : Responsible for managing the documentation process.
 # Azure services used:
 1. Azure blob storage
 2. Storage account
