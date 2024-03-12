@@ -24,6 +24,15 @@ A unisex salon is a beauty establishment that offers services to both men and wo
 # Project Description:
  At VAR, we offer a complete range of beauty services to fit your needs. From hair style to facial skin care. We have facilities of  sending professionals to your  doorstep, having more than 10+ years of 
  experience, and also we are providing service to old people even at home. You can book a session by login into our website.
+ Our Services: At VAR Unisex Salon, we offer a comprehensive range of services designed to cater to all your grooming needs. Whether you're looking for a simple haircut, a bold new colour, or a relaxing spa treatment, our team of experienced professionals is here to help you look and feel amazing. Our services include:
+•	Haircuts and Styling: From classic cuts to trendy styles, our talented stylists will work with you to create a look that suits your personality and lifestyle.
+•	Hair Colouring: Whether you want to enhance your natural colour or try something completely new, our colour experts will help you achieve the perfect shade.
+•	Spa Treatments: Indulge in a moment of relaxation with our range of spa services, including massages, facials, and body treatments.
+•	Beard Grooming: Gentlemen, elevate your grooming routine with our professional beard trimming and shaping services.
+•	Waxing and Threading: Say goodbye to unwanted hair with our efficient waxing and threading services for both men and women.
+•	Makeup Application: Whether it's for a special occasion or just because, our makeup artists will help you look flawless and fabulous.
+•	Bridal Packages: Let us take care of all your beauty needs on your special day with our customizable bridal packages.
+
 # Core Azure Services:
  Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. 
  Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational 
