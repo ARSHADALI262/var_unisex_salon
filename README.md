@@ -2,7 +2,7 @@
 A unisex salon is a beauty establishment that offers services to both men and women, including haircuts, styling, coloring, manicures, pedicures, and other  grooming treatments. It's a convenient option for individuals looking for a one-stop-shop for all their beauty needs, regardless of gender.
 # Project Details
   1. Project demo URL: https://varstorage2.z13.web.core.windows.net/page03.html#contact 
-  2. Demo video URL:https://youtu.be/MY-3ICQ3uqE?si=CZbuhzHBTWJc2Gq4
+  2. Demo video URL:https://www.youtube.com/watch?v=K9FijevhOjQ
   3. Github repository URL:https://github.com/ARSHADALI262/var_unisex_salon
   4. Industry :life style - Saloon
 # Roles and responsibilities
